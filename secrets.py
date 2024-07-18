@@ -1,5 +1,5 @@
 secrets = {
-    'ssid': 'Ultron',
-    'password': 'Blow_the_world',
-    'weatherstack_api_key': '38aaeb84517c9020e4bfa56c4ec6e8fe'
+    'ssid': 'Replace with wifi SSID',
+    'password': 'Replace with wifi PSK',
+    'weatherstack_api_key': 'API_KEY'
 }
